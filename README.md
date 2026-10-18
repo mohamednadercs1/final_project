@@ -75,3 +75,4 @@ Kaggle data. No keys at all? Smoke-test with synthetic data:
 - Rotten Tomatoes' terms discourage scraping and its markup changes; the scraper fallback is
   best-effort and off by default. Prefer OMDb.
 - The test set is a few hundred films, so metric differences are noisy; read the bootstrap CIs.
+# final_project
