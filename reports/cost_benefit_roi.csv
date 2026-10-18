@@ -1,0 +1,5 @@
+model,cost threshold,TP,FP,FN,TN,cost ($M),saving vs best naive ($M)
+Logistic Regression,0.79,40,11,289,292,3165.0,125.0
+Random Forest,0.72,11,2,318,301,3230.0,60.0
+LightGBM,0.84,27,4,302,299,3120.0,170.0
+XGBoost,0.85,15,2,314,301,3190.0,100.0

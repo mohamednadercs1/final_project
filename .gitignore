@@ -1,0 +1,8 @@
+data/*.csv
+data/*.pkl
+data/cache/**/*.json
+models/*.joblib
+.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
+.env
